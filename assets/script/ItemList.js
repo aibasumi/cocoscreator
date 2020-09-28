@@ -63,13 +63,13 @@ cc.Class({
                 if( !buttonBG ) { cc.log('找不到指定名稱的Node, 是不是哪裡搞錯了？'); return; }
 
                 //所以，y軸就是利用計數器乘上圖片的高度，再加上10額外邊界後，再減去場景的高度除以二
-                var newX = (  buttonBG.width ) + (root.Count*50) - ( CanvasNode.width / 2 );
+                var newX = (  buttonBG.width ) + (root.Count*100) - 750;
                 //減去場景高度這個動作，是為了讓每點擊一次按鈕，我們的Prefab就一直往上產生
                 
 
                 console.log(newX);
                 //設定位置，這邊x軸不變
-                newMyPrefab.setPosition( newX, 5 );
+                newMyPrefab.setPosition( newX, 10 );
 
 
                 newMyPrefab.getComponent('ItemTemplate').init({
@@ -89,7 +89,7 @@ cc.Class({
             //這邊才是真的使用cc.loader進行載入，並且呼叫我們上面寫的方法
             //cc.loader.loadRes( prefabPath, onResourceLoaded );
 
-        for (var i = 0; i < 5; ++i) {
+        for (var i = 0; i < 10; ++i) {
 
             cc.loader.loadRes( prefabPath, onResourceLoaded );
             // var item = cc.instantiate(this.prefabPath);
