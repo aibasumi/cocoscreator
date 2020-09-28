@@ -30,7 +30,7 @@ cc.Class({
   },
   onLoad: function onLoad() {
     //我們先動態取得Canvas
-    var CanvasNode = cc.find('Canvas');
+    var CanvasNode = cc.find('scrollview/view/content');
 
     if (!CanvasNode) {
       cc.log('找不到Canvas畫布，請確認你的場景裡有Canvas');

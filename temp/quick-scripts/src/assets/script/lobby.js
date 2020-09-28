@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, 'f7426ogdsdIy5TFpUortkCy', 'lobby');
-// lobby.js
+// script/lobby.js
 
 "use strict";
 
