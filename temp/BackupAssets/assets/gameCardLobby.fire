@@ -831,20 +831,20 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 10,
+      "width": 5.76,
       "height": 30
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
-      "x": 1,
+      "x": 0,
       "y": 0
     },
     "_trs": {
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -1,
-        0,
+        -8.880000000000056,
+        -15.000000000000014,
         0,
         0,
         0,
@@ -930,7 +930,7 @@
     },
     "_enabled": true,
     "horizontal": true,
-    "vertical": true,
+    "vertical": false,
     "inertia": true,
     "brake": 0.75,
     "elastic": true,

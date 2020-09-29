@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '3af2aJJOutElLnwkyFhKENo', 'gameCardConfig');
-// gameCardConfig.js
+// script/gameCardConfig.js
 
 "use strict";
 

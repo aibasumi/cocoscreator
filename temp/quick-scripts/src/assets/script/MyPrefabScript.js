@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '58080e6Tj1PoaGECZ+RYUS4', 'MyPrefabScript');
-// MyPrefabScript.js
+// script/MyPrefabScript.js
 
 "use strict";
 
