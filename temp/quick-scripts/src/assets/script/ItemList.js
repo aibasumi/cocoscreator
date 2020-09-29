@@ -74,7 +74,7 @@ cc.Class({
 
       console.log(newX); //設定位置，這邊x軸不變
 
-      newMyPrefab.setPosition(newX, 10);
+      newMyPrefab.setPosition(newX, -150);
       newMyPrefab.getComponent('ItemTemplate').init({
         id: '1111',
         itemName: 'test',
