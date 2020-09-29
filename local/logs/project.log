@@ -91,3 +91,29 @@
 2020-09-29T07:50:20.182Z - normal: Loading packages
 2020-09-29T07:50:20.186Z - normal: Watching packages
 2020-09-29T07:50:20.354Z - normal: Run Application
+2020-09-29T08:26:46.105Z - warn: The Node referenced by component "cc.ScrollView" is invalid. Detailed information:
+Node path: "LeftMenu/New ScrollView"
+
+2020-09-29T08:26:46.106Z - warn: The Scrollbar referenced by component "cc.ScrollView" is invalid. Detailed information:
+Node path: "LeftMenu/New ScrollView"
+
+2020-09-29T08:46:38.069Z - failed: [db-task][sync-changes] Failed to import asset /Users/muki/Documents/3.cocos/0.cocoscreator/assets/script/scrollview.js, message: Compile error: SyntaxError: /Users/muki/Documents/3.cocos/0.cocoscreator/assets/script/scrollview.js: Unexpected token, expected "," (32:12)
+
+  30 | 
+  31 |     onLoad (
+> 32 |         self.ScrollView.node.cascadeOpacity = false;
+     |             ^
+  33 |     ),
+  34 | 
+  35 |     start () {
+    at Parser._raise (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:746:17)
+    at Parser.raiseWithData (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:739:17)
+    at Parser.raise (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:733:17)
+    at Parser.unexpected (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:8807:16)
+    at Parser.expect (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:8793:28)
+    at Parser.parseBindingList (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:9182:14)
+    at Parser.parseFunctionParams (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:11894:24)
+    at Parser.parseMethod (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:10652:10)
+    at Parser.parseObjectMethod (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:10569:19)
+    at Parser.parseObjPropValue (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:10611:23)
+2020-09-29T09:10:32.738Z - info: 只有预制节点 "LeftMenu_Item" 及其子节点会被保存。

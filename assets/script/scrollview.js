@@ -28,13 +28,13 @@ cc.Class({
 
     // LIFE-CYCLE CALLBACKS:
 
-    onLoad (
-        self.ScrollView.node.cascadeOpacity = false;
-    ) {},
+    // onLoad () (
+        
+    // ),
 
-    start () {
+    // start () {
 
-    },
+    // },
 
     // update (dt) {},
 });
