@@ -25,19 +25,19 @@ var gameCardData = [
         id:3,
         itemName: "遊戲3",
         itemPrice: '',
-        iconSF: "image/cards/cardA",
+        iconSF: "image/cards/cardC",
     },
     {
         id:4,
         itemName: "遊戲4",
         itemPrice: '',
-        iconSF: "image/cards/cardB",
+        iconSF: "image/cards/cardD",
     },
     {
         id:5,
         itemName: "遊戲5",
         itemPrice: '',
-        iconSF: "image/cards/cardA",
+        iconSF: "image/cards/cardE",
     },
     
   ];
@@ -85,14 +85,15 @@ cc.Class({
                 if( !buttonBG ) { cc.log('找不到指定名稱的Node, 是不是哪裡搞錯了？'); return; }
 
                 //所以，y軸就是利用計數器乘上圖片的高度，再加上10額外邊界後，再減去場景的高度除以二
-                var newX = (  buttonBG.width*root.Count ) + 1 - (CanvasNode.width / 2) ;
+                var newX = (  buttonBG.width*0.5*root.Count ) - (CanvasNode.width / 2) -60 ;
                 //減去場景高度這個動作，是為了讓每點擊一次按鈕，我們的Prefab就一直往上產生
                 
-                
+
+                console.log('buttonBG.width',buttonBG.width);
                 //newMyPrefab.setContentSize(200);
                 
                 //設定位置，這邊x軸不變
-                newMyPrefab.setPosition( newX, -150 );
+                newMyPrefab.setPosition( newX, -130 );
 
                 newMyPrefab.getComponent('ItemTemplate').init({
                     id: item.id,
