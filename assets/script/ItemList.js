@@ -25,19 +25,19 @@ var gameCardData = [
         id:3,
         itemName: "遊戲3",
         itemPrice: '',
-        iconSF: "image/cards/cardA",
+        iconSF: "image/cards/cardC",
     },
     {
         id:4,
         itemName: "遊戲4",
         itemPrice: '',
-        iconSF: "image/cards/cardB",
+        iconSF: "image/cards/cardD",
     },
     {
         id:5,
         itemName: "遊戲5",
         itemPrice: '',
-        iconSF: "image/cards/cardA",
+        iconSF: "image/cards/cardE",
     },
     
   ];
