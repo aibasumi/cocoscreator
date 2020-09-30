@@ -770,8 +770,8 @@
     "relativePath": "images/ui_btn_close.png"
   },
   "c49d836e-b7ae-4306-adc0-afa912511048": {
-    "asset": 1601448960618,
-    "meta": 1601448960619,
+    "asset": 1601449329613,
+    "meta": 1601449329615,
     "relativePath": "resources/dialog.prefab"
   },
   "51774dee-e272-4ada-b6bb-a8a8c8e6849d": {
@@ -784,19 +784,19 @@
     "meta": 1601445956865,
     "relativePath": "images/dialogBG.png"
   },
-  "19d722e8-b4b2-41d2-828b-39f1f103451f": {
-    "asset": 1601448909961,
-    "meta": 1601448960230,
-    "relativePath": "script/closeDialog.js"
-  },
   "49a0e188-c968-4840-9b42-2297f7357b89": {
     "asset": 1601448956356,
     "meta": 1601448960323,
     "relativePath": "script/ItemList.js"
   },
   "2d40a04a-757a-46a4-b5a6-e6219607ef87": {
-    "asset": 1601448945718,
-    "meta": 1601448960373,
+    "asset": 1601449290242,
+    "meta": 1601449294964,
     "relativePath": "script/openDialog.js"
+  },
+  "19d722e8-b4b2-41d2-828b-39f1f103451f": {
+    "asset": 1601450332000,
+    "meta": 1601451086519,
+    "relativePath": "script/closeDialog.js"
   }
 }

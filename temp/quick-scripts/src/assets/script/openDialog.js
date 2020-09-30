@@ -48,7 +48,7 @@ cc.Class({
         var newMyPrefab = cc.instantiate(prefab); //我們先將這個建立出來的Prefab加入畫布裡
 
         CanvasNode.addChild(newMyPrefab);
-        newMyPrefab.setPosition(-400, -200);
+        newMyPrefab.setPosition(-400, -250);
       });
     }, this); // this.node.on(cc.Node.EventType.TOUCH_MOVE,
     //     function(t){console.log("cc.Node.EventType.TOUCH_MOVE ")},this);
