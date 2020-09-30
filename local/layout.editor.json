@@ -5,10 +5,17 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
+<<<<<<< HEAD
       "x": 2077,
       "y": 23,
       "width": 1605,
       "height": 1057,
+=======
+      "x": -1285,
+      "y": -1080,
+      "width": 1920,
+      "height": 1080,
+>>>>>>> c9461298b026653cfce04e6175fc3bdac6d3feb2
       "layout": {
         "children": [
           {
@@ -18,7 +25,11 @@
                 "children": [
                   "hierarchy"
                 ],
+<<<<<<< HEAD
                 "height": 468.96875,
+=======
+                "height": 487.765625,
+>>>>>>> c9461298b026653cfce04e6175fc3bdac6d3feb2
                 "type": "panel",
                 "width": 327.359375
               },
@@ -27,12 +38,20 @@
                 "children": [
                   "assets"
                 ],
+<<<<<<< HEAD
                 "height": 504.03125,
+=======
+                "height": 527.734375,
+>>>>>>> c9461298b026653cfce04e6175fc3bdac6d3feb2
                 "type": "panel",
                 "width": 327.359375
               }
             ],
+<<<<<<< HEAD
             "height": 976,
+=======
+            "height": 1018.5,
+>>>>>>> c9461298b026653cfce04e6175fc3bdac6d3feb2
             "type": "dock-v",
             "width": 327.359375
           },
@@ -45,23 +64,39 @@
                     "children": [
                       "scene"
                     ],
+<<<<<<< HEAD
                     "height": 706.453125,
                     "type": "panel",
                     "width": 700.609375
+=======
+                    "height": 648.3125,
+                    "type": "panel",
+                    "width": 651
+>>>>>>> c9461298b026653cfce04e6175fc3bdac6d3feb2
                   },
                   {
                     "active": 0,
                     "children": [
                       "node-library"
                     ],
+<<<<<<< HEAD
                     "height": 706.453125,
+=======
+                    "height": 648.3125,
+>>>>>>> c9461298b026653cfce04e6175fc3bdac6d3feb2
                     "type": "panel",
-                    "width": 264
+                    "width": 520
                   }
                 ],
+<<<<<<< HEAD
                 "height": 706.453125,
                 "type": "dock-h",
                 "width": 967.625
+=======
+                "height": 648.3125,
+                "type": "dock-h",
+                "width": 1174
+>>>>>>> c9461298b026653cfce04e6175fc3bdac6d3feb2
               },
               {
                 "active": 0,
@@ -70,6 +105,7 @@
                   "timeline",
                   "game-window"
                 ],
+<<<<<<< HEAD
                 "height": 266.546875,
                 "type": "panel",
                 "width": 967.625
@@ -78,6 +114,16 @@
             "height": 976,
             "type": "dock-v",
             "width": 967.625
+=======
+                "height": 367.171875,
+                "type": "panel",
+                "width": 1174
+              }
+            ],
+            "height": 1018.5,
+            "type": "dock-v",
+            "width": 1174
+>>>>>>> c9461298b026653cfce04e6175fc3bdac6d3feb2
           },
           {
             "active": 0,
@@ -85,9 +131,13 @@
               "inspector",
               "cocos-services"
             ],
+<<<<<<< HEAD
             "height": 976,
+=======
+            "height": 1018.5,
+>>>>>>> c9461298b026653cfce04e6175fc3bdac6d3feb2
             "type": "panel",
-            "width": 304
+            "width": 333
           }
         ],
         "type": "dock-h"

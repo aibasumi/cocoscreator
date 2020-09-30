@@ -186,7 +186,7 @@
       "array": [
         0,
         0,
-        572.4427919015139,
+        523.3499768244836,
         0,
         0,
         0,
@@ -975,7 +975,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 500,
+      "width": 1200,
       "height": 200
     },
     "_anchorPoint": {
@@ -1169,7 +1169,7 @@
     },
     "_enabled": true,
     "Count": 0,
-    "itemPrefab": null,
+    "Item": null,
     "_id": "6bBRUC7exNA4/3UY6Azlfe"
   },
   {
