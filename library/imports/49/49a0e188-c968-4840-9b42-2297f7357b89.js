@@ -89,9 +89,9 @@ cc.Class({
         } //所以，y軸就是利用計數器乘上圖片的高度，再加上10額外邊界後，再減去場景的高度除以二
 
 
-        var newX = buttonBG.width + root.Count * 100 - 750; //減去場景高度這個動作，是為了讓每點擊一次按鈕，我們的Prefab就一直往上產生
-
-        console.log(CanvasNode.height); //設定位置，這邊x軸不變
+        var newX = buttonBG.width * root.Count + 1 - CanvasNode.width / 2; //減去場景高度這個動作，是為了讓每點擊一次按鈕，我們的Prefab就一直往上產生
+        //newMyPrefab.setContentSize(200);
+        //設定位置，這邊x軸不變
 
         newMyPrefab.setPosition(newX, -150);
         newMyPrefab.getComponent('ItemTemplate').init({

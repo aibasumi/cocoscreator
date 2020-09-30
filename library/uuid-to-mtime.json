@@ -90,8 +90,8 @@
     "relativePath": "images/cards/hot_frame_eff.png"
   },
   "626de069-0357-4211-8fbd-fee76ccbaec6": {
-    "asset": 1601371314888,
-    "meta": 1601371314889,
+    "asset": 1601429727754,
+    "meta": 1601429727756,
     "relativePath": "resources/Item.prefab"
   },
   "b55d42ed-bd97-4cdf-aa8d-79ecc478b4bc": {
@@ -675,8 +675,8 @@
     "relativePath": "script/LeftMenu/ScrollView.js"
   },
   "079f12f8-7dba-414c-aba3-5a3b81888139": {
-    "asset": 1601373343761,
-    "meta": 1601373343782,
+    "asset": 1601430021185,
+    "meta": 1601430021198,
     "relativePath": "gameCardLobby.fire"
   },
   "58d287ff-e09c-4c68-a11f-34e7923972f1": {
@@ -684,14 +684,14 @@
     "meta": 1601373144301,
     "relativePath": "script/LeftMenu/ItemList - 001.js"
   },
-  "49a0e188-c968-4840-9b42-2297f7357b89": {
-    "asset": 1601429168183,
-    "meta": 1601429171699,
-    "relativePath": "script/ItemList.js"
-  },
   "7debb255-ec64-4613-b537-779b98179f9c": {
     "asset": 1601429197883,
     "meta": 1601429202299,
     "relativePath": "script/ItemTemplate.js"
+  },
+  "49a0e188-c968-4840-9b42-2297f7357b89": {
+    "asset": 1601429775719,
+    "meta": 1601429778243,
+    "relativePath": "script/ItemList.js"
   }
 }
