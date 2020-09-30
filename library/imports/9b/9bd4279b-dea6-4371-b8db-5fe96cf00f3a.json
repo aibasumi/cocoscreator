@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_common_btn_light_o",
+    "texture": "dcb4ed4d-c3ca-4863-8342-6e527b16fae9",
+    "atlas": "",
+    "rect": [
+      4,
+      1,
+      308,
+      117
+    ],
+    "offset": [
+      0,
+      2.5
+    ],
+    "originalSize": [
+      316,
+      124
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

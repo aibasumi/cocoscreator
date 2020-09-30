@@ -90,8 +90,7 @@ cc.Class({
 
 
         var newX = buttonBG.width * 0.5 * root.Count - CanvasNode.width / 2 - 60; //減去場景高度這個動作，是為了讓每點擊一次按鈕，我們的Prefab就一直往上產生
-
-        console.log('buttonBG.width', buttonBG.width); //newMyPrefab.setContentSize(200);
+        //newMyPrefab.setContentSize(200);
         //設定位置，這邊x軸不變
 
         newMyPrefab.setPosition(newX, -130);
