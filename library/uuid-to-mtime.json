@@ -5,8 +5,8 @@
     "relativePath": "images/bk.jpg"
   },
   "d1ad7255-5d70-4443-967e-adabf6113896": {
-    "asset": 1601371158967,
-    "meta": 1601371314698,
+    "asset": 1601445956841,
+    "meta": 1601891149944,
     "relativePath": "images"
   },
   "57786d55-5077-42eb-a4a7-6a0e7242e2fa": {
@@ -45,8 +45,8 @@
     "relativePath": "script/gameCardConfig.js"
   },
   "ffe4891b-ad5a-4ebc-a189-7653a0561d86": {
-    "asset": 1601437299482,
-    "meta": 1601437330109,
+    "asset": 1601443994221,
+    "meta": 1601891149946,
     "relativePath": "resources"
   },
   "580807ba-4e3d-4fa1-a184-099f916144b8": {
@@ -60,8 +60,8 @@
     "relativePath": "login.fire"
   },
   "e3e8a37e-76d0-4db5-8091-782497493802": {
-    "asset": 1601437299482,
-    "meta": 1601437330117,
+    "asset": 1601445782572,
+    "meta": 1601891149964,
     "relativePath": "script"
   },
   "7bad3f6c-4b4f-4d8b-a387-c4bba43f0569": {
@@ -85,8 +85,8 @@
     "relativePath": "images/cards/hot_frame_eff.png"
   },
   "b55d42ed-bd97-4cdf-aa8d-79ecc478b4bc": {
-    "asset": 1601272917470,
-    "meta": 1601371314863,
+    "asset": 1601445867955,
+    "meta": 1601891149959,
     "relativePath": "resources/image"
   },
   "1c6cabbb-1ce2-4536-8629-7ba186f60101": {
@@ -735,13 +735,13 @@
     "relativePath": "resources/Item.prefab"
   },
   "079f12f8-7dba-414c-aba3-5a3b81888139": {
-    "asset": 1601445524845,
-    "meta": 1601445524865,
+    "asset": 1601451747174,
+    "meta": 1601451747200,
     "relativePath": "gameCardLobby.fire"
   },
   "fb3101f3-b062-4346-8da1-3641d9378d3b": {
-    "asset": 1601437804681,
-    "meta": 1601437804683,
+    "asset": 1601443129002,
+    "meta": 1601891149962,
     "relativePath": "resources/image/icon"
   },
   "8cfddc11-233b-4c88-a5ba-c527c93e8eff": {
@@ -790,13 +790,13 @@
     "relativePath": "script/ItemList.js"
   },
   "2d40a04a-757a-46a4-b5a6-e6219607ef87": {
-    "asset": 1601449290242,
-    "meta": 1601449294964,
+    "asset": 1601451743041,
+    "meta": 1601451746767,
     "relativePath": "script/openDialog.js"
   },
   "19d722e8-b4b2-41d2-828b-39f1f103451f": {
-    "asset": 1601450332000,
-    "meta": 1601451086519,
+    "asset": 1601451762530,
+    "meta": 1601451809604,
     "relativePath": "script/closeDialog.js"
   }
 }

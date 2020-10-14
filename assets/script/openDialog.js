@@ -46,6 +46,10 @@ cc.Class({
 
                     newMyPrefab.setPosition( -400, -250 );
 
+                    newMyPrefab.getComponent('closeDialog').init({
+                        message: 'message!',
+                    });
+
                 });
         },this);
         // this.node.on(cc.Node.EventType.TOUCH_MOVE,

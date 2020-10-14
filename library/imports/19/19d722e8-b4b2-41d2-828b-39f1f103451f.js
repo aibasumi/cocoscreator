@@ -39,6 +39,9 @@ cc.Class({
       dialog.active ? dialog.active = false : null;
     }, this);
   },
+  init: function init(data) {
+    this.message.string = data.message;
+  },
   start: function start() {} // update (dt) {},
 
 });

@@ -49,6 +49,9 @@ cc.Class({
 
         CanvasNode.addChild(newMyPrefab);
         newMyPrefab.setPosition(-400, -250);
+        newMyPrefab.getComponent('closeDialog').init({
+          message: 'message!'
+        });
       });
     }, this); // this.node.on(cc.Node.EventType.TOUCH_MOVE,
     //     function(t){console.log("cc.Node.EventType.TOUCH_MOVE ")},this);

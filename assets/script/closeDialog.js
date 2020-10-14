@@ -41,6 +41,10 @@ cc.Class({
          },this);
     },
 
+    init: function (data) { 
+        this.message.string = data.message;
+    },
+
     start () {
 
     },
