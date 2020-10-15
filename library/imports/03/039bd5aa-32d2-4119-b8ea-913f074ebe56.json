@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "2020-09-30 14.03",
+    "texture": "51774dee-e272-4ada-b6bb-a8a8c8e6849d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      694,
+      480
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      694,
+      480
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

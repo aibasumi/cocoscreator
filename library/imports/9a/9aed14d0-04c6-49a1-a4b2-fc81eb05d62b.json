@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Recharge_n",
+    "texture": "e88a4c90-298e-4c9f-ae29-61e1363aa86c",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      102,
+      97
+    ],
+    "offset": [
+      -1,
+      1.5
+    ],
+    "originalSize": [
+      108,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
