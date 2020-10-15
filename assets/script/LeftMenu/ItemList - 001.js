@@ -16,11 +16,11 @@ cc.Class({
     onLoad () {
         for (var i = 0; i < nameData.length; i++) {
             var item = cc.instantiate(this.itemPrefab);
-            this.node.addChild(item);
+            this.node.addChild(item); 
             item.getComponent('ItemTemplate - 001').init({
                 itemName: nameData[i],
             });
         }
 
-    }
+    } 
 });

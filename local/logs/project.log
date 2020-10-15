@@ -1,199 +1,74 @@
-2020-09-30T01:43:44.744Z - normal: Load ~/.CocosCreator/settings.json
-2020-09-30T01:43:44.808Z - normal: Initializing Asset Database
-2020-09-30T01:43:44.811Z - normal: checking language setting...
-2020-09-30T01:43:44.811Z - normal: Language: zh
-2020-09-30T01:43:46.101Z - success: protocol editor-framework registered
-2020-09-30T01:43:46.102Z - success: protocol app registered
-2020-09-30T01:43:46.102Z - success: protocol theme registered
-2020-09-30T01:43:46.102Z - success: protocol packages registered
-2020-09-30T01:43:46.102Z - success: protocol uuid registerred
-2020-09-30T01:43:46.103Z - success: protocol db registerred
-2020-09-30T01:43:46.103Z - success: protocol thumbnail registerred
-2020-09-30T01:43:46.103Z - success: protocol unpack registerred
-2020-09-30T01:43:46.103Z - success: protocol disable-commonjs registerred
-2020-09-30T01:43:46.291Z - normal: connected!
-2020-09-30T01:43:46.292Z - normal: Check project /Users/muki/Documents/3.cocos/0.cocoscreator
-2020-09-30T01:43:46.294Z - normal: Initializing project /Users/muki/Documents/3.cocos/0.cocoscreator
-2020-09-30T01:43:46.481Z - success: adapters loaded
-2020-09-30T01:43:46.485Z - success: asset-db-debugger loaded
-2020-09-30T01:43:46.567Z - success: fb-audience-network loaded
-2020-09-30T01:43:46.617Z - success: fb-live-stream loaded
-2020-09-30T01:43:46.621Z - success: google-play-instant loaded
-2020-09-30T01:43:46.622Z - success: jsb-adapter loaded
-2020-09-30T01:43:46.634Z - success: package-manager loaded
-2020-09-30T01:43:46.635Z - success: runtime-adapters loaded
-2020-09-30T01:43:46.638Z - success: runtime-dev-tools loaded
-2020-09-30T01:43:46.643Z - success: ui-kit-preview-extra loaded
-2020-09-30T01:43:46.647Z - success: ui-kit-preview loaded
-2020-09-30T01:43:46.714Z - success: alipay-minigame loaded
-2020-09-30T01:43:46.794Z - success: assets loaded
-2020-09-30T01:43:46.801Z - success: baidugame-opendata loaded
-2020-09-30T01:43:46.803Z - success: baidugame loaded
-2020-09-30T01:43:46.807Z - success: builder loaded
-2020-09-30T01:43:46.809Z - success: bytedance-opendata loaded
-2020-09-30T01:43:46.811Z - success: bytedance loaded
-2020-09-30T01:43:46.814Z - success: channel-upload-tools loaded
-2020-09-30T01:43:46.821Z - success: cloud-function loaded
-2020-09-30T01:43:47.030Z - success: cocos-services loaded
-2020-09-30T01:43:47.036Z - success: console loaded
-2020-09-30T01:43:47.039Z - success: curve-editor loaded
-2020-09-30T01:43:47.051Z - success: fb-instant-games loaded
-2020-09-30T01:43:47.055Z - success: game-window loaded
-2020-09-30T01:43:47.057Z - success: google-instant-games loaded
-2020-09-30T01:43:47.062Z - success: hierarchy loaded
-2020-09-30T01:43:47.064Z - success: huawei-agc loaded
-2020-09-30T01:43:47.068Z - success: huawei-runtime loaded
-2020-09-30T01:43:47.072Z - success: inspector loaded
-2020-09-30T01:43:47.089Z - success: cpk-publish loaded
-2020-09-30T01:43:47.090Z - success: keystore loaded
-2020-09-30T01:43:47.109Z - success: link-sure-runtime loaded
-2020-09-30T01:43:47.123Z - success: node-library loaded
-2020-09-30T01:43:47.124Z - success: open-recent-items loaded
-2020-09-30T01:43:47.127Z - success: oppo-runtime loaded
-2020-09-30T01:43:47.130Z - success: package-asset loaded
-2020-09-30T01:43:47.131Z - success: preferences loaded
-2020-09-30T01:43:47.135Z - success: project-importer loaded
-2020-09-30T01:43:47.139Z - success: project-settings loaded
-2020-09-30T01:43:47.162Z - success: qtt-runtime loaded
-2020-09-30T01:43:47.166Z - success: scene loaded
-2020-09-30T01:43:47.167Z - success: simulator-debugger loaded
-2020-09-30T01:43:47.167Z - success: sprite-editor loaded
-2020-09-30T01:43:47.212Z - success: store loaded
-2020-09-30T01:43:47.218Z - success: timeline loaded
-2020-09-30T01:43:47.223Z - success: vivo-runtime loaded
-2020-09-30T01:43:47.225Z - success: wechatgame-opendata loaded
-2020-09-30T01:43:47.229Z - success: wechatgame loaded
-2020-09-30T01:43:47.234Z - success: xiaomi-runtime loaded
-2020-09-30T01:43:47.437Z - success: im-plugin loaded
-2020-09-30T01:43:47.443Z - success: preview server running at http://localhost:7456
-2020-09-30T01:43:49.652Z - info: Cocos Service load base data!
-2020-09-30T01:43:49.855Z - normal: Initializing Cocos2d
-2020-09-30T01:43:50.251Z - normal: Initializing engine extends
-2020-09-30T01:43:51.427Z - normal: Loading packages
-2020-09-30T01:43:51.431Z - normal: Watching packages
-2020-09-30T01:43:51.571Z - normal: Run Application
-2020-09-30T01:56:15.819Z - info: 只有预制节点 "Item" 及其子节点会被保存。
-2020-09-30T01:56:35.460Z - info: 只有预制节点 "Item" 及其子节点会被保存。
-2020-09-30T01:56:48.074Z - info: 只有预制节点 "Item" 及其子节点会被保存。
-2020-09-30T01:57:05.835Z - info: 只有预制节点 "Item" 及其子节点会被保存。
-2020-09-30T01:57:21.304Z - info: 只有预制节点 "Item" 及其子节点会被保存。
-2020-09-30T01:57:32.235Z - info: 只有预制节点 "Item" 及其子节点会被保存。
-2020-09-30T01:58:13.737Z - info: 只有预制节点 "Item" 及其子节点会被保存。
-2020-09-30T01:58:25.499Z - info: 只有预制节点 "Item" 及其子节点会被保存。
-2020-09-30T02:00:56.425Z - info: 只有预制节点 "Item" 及其子节点会被保存。
-2020-09-30T02:01:22.961Z - info: 只有预制节点 "Item" 及其子节点会被保存。
-2020-09-30T02:02:01.768Z - info: 只有预制节点 "Item" 及其子节点会被保存。
-2020-09-30T02:02:21.644Z - info: 只有预制节点 "Item" 及其子节点会被保存。
-2020-09-30T02:06:24.499Z - info: 只有预制节点 "Item" 及其子节点会被保存。
-2020-09-30T02:08:06.787Z - info: 只有预制节点 "Item" 及其子节点会被保存。
-2020-09-30T02:16:16.716Z - error: A Class already exists with the same __classname__ : "ItemType".
-    at /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:472:14
-    at Object.js.setClassName (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:531:5)
-    at doDefine (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:334:6)
-    at define (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:357:13)
-    at Object.CCClass [as Class] (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:1010:13)
-    at __define (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:18:15)
-    at /Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:45:25
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:52:19)
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:54:3)
-2020-09-30T02:16:16.745Z - error: A Class already exists with the same __cid__ : "ItemType".
-    at Object._setClassId (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:472:14)
-    at Object.js.setClassName (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:537:12)
-    at doDefine (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:334:6)
-    at define (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:357:13)
-    at Object.CCClass [as Class] (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:1010:13)
-    at __define (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:18:15)
-    at /Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:45:25
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:52:19)
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:54:3)
-2020-09-30T02:16:31.044Z - error: A Class already exists with the same __classname__ : "ItemType".
-    at /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:472:14
-    at Object.js.setClassName (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:531:5)
-    at doDefine (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:334:6)
-    at define (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:357:13)
-    at Object.CCClass [as Class] (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:1010:13)
-    at __define (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:18:15)
-    at /Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:45:25
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:52:19)
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:54:3)
-2020-09-30T02:16:31.045Z - error: A Class already exists with the same __cid__ : "ItemType".
-    at Object._setClassId (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:472:14)
-    at Object.js.setClassName (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:537:12)
-    at doDefine (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:334:6)
-    at define (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:357:13)
-    at Object.CCClass [as Class] (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:1010:13)
-    at __define (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:18:15)
-    at /Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:45:25
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:52:19)
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:54:3)
-2020-09-30T02:16:33.785Z - error: A Class already exists with the same __classname__ : "ItemType".
-    at /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:472:14
-    at Object.js.setClassName (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:531:5)
-    at doDefine (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:334:6)
-    at define (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:357:13)
-    at Object.CCClass [as Class] (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:1010:13)
-    at __define (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:18:15)
-    at /Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:45:25
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:52:19)
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:54:3)
-2020-09-30T02:16:33.786Z - error: A Class already exists with the same __cid__ : "ItemType".
-    at Object._setClassId (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:472:14)
-    at Object.js.setClassName (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:537:12)
-    at doDefine (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:334:6)
-    at define (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:357:13)
-    at Object.CCClass [as Class] (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:1010:13)
-    at __define (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:18:15)
-    at /Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:45:25
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:52:19)
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:54:3)
-2020-09-30T02:16:36.585Z - error: A Class already exists with the same __classname__ : "ItemType".
-    at /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:472:14
-    at Object.js.setClassName (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:531:5)
-    at doDefine (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:334:6)
-    at define (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:357:13)
-    at Object.CCClass [as Class] (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:1010:13)
-    at __define (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:18:15)
-    at /Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:45:25
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:52:19)
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:54:3)
-2020-09-30T02:16:36.589Z - error: A Class already exists with the same __cid__ : "ItemType".
-    at Object._setClassId (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:472:14)
-    at Object.js.setClassName (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:537:12)
-    at doDefine (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:334:6)
-    at define (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:357:13)
-    at Object.CCClass [as Class] (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:1010:13)
-    at __define (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:18:15)
-    at /Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:45:25
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:52:19)
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:54:3)
-2020-09-30T02:17:59.246Z - error: A Class already exists with the same __classname__ : "ItemType".
-    at /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:472:14
-    at Object.js.setClassName (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:531:5)
-    at doDefine (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:334:6)
-    at define (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:357:13)
-    at Object.CCClass [as Class] (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:1010:13)
-    at __define (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:18:15)
-    at /Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:45:25
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:52:19)
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:54:3)
-2020-09-30T02:17:59.249Z - error: A Class already exists with the same __cid__ : "ItemType".
-    at Object._setClassId (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:472:14)
-    at Object.js.setClassName (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:537:12)
-    at doDefine (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:334:6)
-    at define (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:357:13)
-    at Object.CCClass [as Class] (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:1010:13)
-    at __define (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:18:15)
-    at /Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:45:25
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:52:19)
-    at Object.<anonymous> (/Users/muki/Documents/3.cocos/0.cocoscreator/temp/quick-scripts/dst/assets/script/LeftMenu/ItemList - 001.js:54:3)
-2020-09-30T02:38:18.859Z - info: 只有预制节点 "cardItem" 及其子节点会被保存。
-2020-09-30T02:38:29.221Z - info: 只有预制节点 "cardItem" 及其子节点会被保存。
-2020-09-30T02:56:33.585Z - info: 只有预制节点 "cardItem" 及其子节点会被保存。
-2020-09-30T02:56:40.903Z - info: 只有预制节点 "cardItem" 及其子节点会被保存。
-2020-09-30T02:58:41.536Z - info: 只有预制节点 "cardItem" 及其子节点会被保存。
-2020-09-30T02:58:50.053Z - info: 只有预制节点 "cardItem" 及其子节点会被保存。
-2020-09-30T03:36:25.273Z - warn: Script attached to "cardItem" is missing or invalid. Detailed information:
-Node path: "cardItem"
-Script UUID: "a2426f66-7c70-474b-a000-2c3766268408"
-Class ID: "a24269mfHBHS6AALDdmJoQI"
-
+2020-10-14T08:02:59.367Z - normal: Load ~/.CocosCreator/settings.json
+2020-10-14T08:02:59.454Z - normal: Initializing Asset Database
+2020-10-14T08:02:59.471Z - normal: checking language setting...
+2020-10-14T08:02:59.472Z - normal: Language: zh
+2020-10-14T08:03:01.062Z - success: protocol editor-framework registered
+2020-10-14T08:03:01.062Z - success: protocol app registered
+2020-10-14T08:03:01.062Z - success: protocol theme registered
+2020-10-14T08:03:01.063Z - success: protocol packages registered
+2020-10-14T08:03:01.063Z - success: protocol uuid registerred
+2020-10-14T08:03:01.063Z - success: protocol db registerred
+2020-10-14T08:03:01.063Z - success: protocol thumbnail registerred
+2020-10-14T08:03:01.063Z - success: protocol unpack registerred
+2020-10-14T08:03:01.063Z - success: protocol disable-commonjs registerred
+2020-10-14T08:03:01.250Z - normal: connected!
+2020-10-14T08:03:01.251Z - normal: Check project /Users/muki/Documents/3.cocos/0.cocoscreator
+2020-10-14T08:03:01.253Z - normal: Initializing project /Users/muki/Documents/3.cocos/0.cocoscreator
+2020-10-14T08:03:01.506Z - success: adapters loaded
+2020-10-14T08:03:01.514Z - success: asset-db-debugger loaded
+2020-10-14T08:03:01.662Z - success: fb-audience-network loaded
+2020-10-14T08:03:01.744Z - success: fb-live-stream loaded
+2020-10-14T08:03:01.748Z - success: google-play-instant loaded
+2020-10-14T08:03:01.750Z - success: jsb-adapter loaded
+2020-10-14T08:03:01.756Z - success: package-manager loaded
+2020-10-14T08:03:01.757Z - success: runtime-adapters loaded
+2020-10-14T08:03:01.761Z - success: runtime-dev-tools loaded
+2020-10-14T08:03:01.765Z - success: ui-kit-preview-extra loaded
+2020-10-14T08:03:01.770Z - success: ui-kit-preview loaded
+2020-10-14T08:03:01.829Z - success: alipay-minigame loaded
+2020-10-14T08:03:01.912Z - success: assets loaded
+2020-10-14T08:03:01.915Z - success: baidugame-opendata loaded
+2020-10-14T08:03:01.918Z - success: baidugame loaded
+2020-10-14T08:03:01.921Z - success: builder loaded
+2020-10-14T08:03:01.923Z - success: bytedance-opendata loaded
+2020-10-14T08:03:01.925Z - success: bytedance loaded
+2020-10-14T08:03:01.929Z - success: channel-upload-tools loaded
+2020-10-14T08:03:01.935Z - success: cloud-function loaded
+2020-10-14T08:03:02.149Z - success: cocos-services loaded
+2020-10-14T08:03:02.155Z - success: console loaded
+2020-10-14T08:03:02.158Z - success: curve-editor loaded
+2020-10-14T08:03:02.173Z - success: fb-instant-games loaded
+2020-10-14T08:03:02.177Z - success: game-window loaded
+2020-10-14T08:03:02.178Z - success: google-instant-games loaded
+2020-10-14T08:03:02.183Z - success: hierarchy loaded
+2020-10-14T08:03:02.185Z - success: huawei-agc loaded
+2020-10-14T08:03:02.189Z - success: huawei-runtime loaded
+2020-10-14T08:03:02.194Z - success: inspector loaded
+2020-10-14T08:03:02.210Z - success: cpk-publish loaded
+2020-10-14T08:03:02.211Z - success: keystore loaded
+2020-10-14T08:03:02.231Z - success: link-sure-runtime loaded
+2020-10-14T08:03:02.248Z - success: node-library loaded
+2020-10-14T08:03:02.249Z - success: open-recent-items loaded
+2020-10-14T08:03:02.252Z - success: oppo-runtime loaded
+2020-10-14T08:03:02.255Z - success: package-asset loaded
+2020-10-14T08:03:02.256Z - success: preferences loaded
+2020-10-14T08:03:02.262Z - success: project-importer loaded
+2020-10-14T08:03:02.267Z - success: project-settings loaded
+2020-10-14T08:03:02.286Z - success: qtt-runtime loaded
+2020-10-14T08:03:02.291Z - success: scene loaded
+2020-10-14T08:03:02.292Z - success: simulator-debugger loaded
+2020-10-14T08:03:02.293Z - success: sprite-editor loaded
+2020-10-14T08:03:02.338Z - success: store loaded
+2020-10-14T08:03:02.342Z - success: timeline loaded
+2020-10-14T08:03:02.348Z - success: vivo-runtime loaded
+2020-10-14T08:03:02.350Z - success: wechatgame-opendata loaded
+2020-10-14T08:03:02.353Z - success: wechatgame loaded
+2020-10-14T08:03:02.357Z - success: xiaomi-runtime loaded
+2020-10-14T08:03:02.633Z - success: im-plugin loaded
+2020-10-14T08:03:02.646Z - success: preview server running at http://localhost:7456
+2020-10-14T08:03:04.963Z - info: Cocos Service load base data!
+2020-10-14T08:03:05.013Z - normal: Initializing Cocos2d
+2020-10-14T08:03:05.463Z - normal: Initializing engine extends
+2020-10-14T08:03:06.702Z - normal: Loading packages
+2020-10-14T08:03:06.706Z - normal: Watching packages
+2020-10-14T08:03:06.905Z - normal: Run Application
